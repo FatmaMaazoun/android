@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- res/values/styles.xml -->
+<resources>
+
+<!-- Base application theme -->
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- ... other theme attributes ... -->
+</style>
+
+<!-- Style for your button -->
+<style name="ButtonStyle" parent="Widget.AppCompat.Button">
+    <item name="android:background">@color/white</item>
+</style>
+
+</resources>
